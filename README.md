@@ -1,2 +1,0 @@
-# purewhite
-demo
